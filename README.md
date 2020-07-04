@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with backend development
 - 💬 Ask me about the ocean
 - 📫 How to reach me: ohksam@gmail.com
-- 😄 Pronouns: he, him, 
-- ⚡ Fun fact: I used to kno how to write (Scripts, poems, articles)
+- 😄 Pronouns: he, him. 
+- ⚡ Fun fact: I used to know how to write (Scripts, poems, articles)
