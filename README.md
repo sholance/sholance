@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on myself @ HNGI7
+- 🌱 I’m currently learning Frontend development
+- 👯 I’m looking to collaborate on projects involving the ocean
+- 🤔 I’m looking for help with backend development
+- 💬 Ask me about the ocean
+- 📫 How to reach me: ohksam@gmail.com
+- 😄 Pronouns: he, him, 
+- ⚡ Fun fact: I used to kno how to write (Scripts, poems, articles)
