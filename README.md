@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on myself (heard it never stops)
-- 🌱 I’m currently learning Frontend development (and every other thing that is trending)
+- 🌱 I’m currently learning development (and every other thing that is trending)
 - 👯 I’m looking to collaborate on projects involving the ocean (it's not that boring - I promise)
 - 🤔 I’m looking for help with backend development (send help)
 - 💬 Ask me about the ocean (I have Google)
