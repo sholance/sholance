@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on myself (heard it never stops)
-- 🌱 I’m currently learning development (and every other thing that is trending)
-- 👯 I’m looking to collaborate on projects involving the ocean (it's not that boring - I promise)
-- 🤔 I’m looking for help with backend development (send help)
-- 💬 Ask me about the ocean (I have Google)
-- 📫 How to reach me: ohksam@gmail.com (I don't have a reason to ignore mails- Yet)
-- 😄 Pronouns: he, him. (For now)
-- ⚡ Fun fact: I used to know how to write (Scripts, poems, articles)
+- 🔭 Currently working on myself
+- 📫 ohksam@gmail.com
+- ⚡ Fun fact: I did know how to write -Scripts, poems, articles you name it
