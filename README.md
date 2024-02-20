@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Currently working on myself
+- 🔭 Currently working on the blockchain
 - 📫 ohksam@gmail.com
-- ⚡ Fun fact: I did know how to write -Scripts, poems, articles you name it
